@@ -27,7 +27,7 @@ Busco oportunidades para aplicar mis conocimientos en **coordinación logística
 
 ## 🎓 Educación
 ### **SENA** _(2024 Avtualidad)_
-- Tecnico en Operaciones Logisticas
+Tecnico en Operaciones Logisticas
  - Logística
  - Cadena de suministro
  - Planificación logística
@@ -40,7 +40,7 @@ Busco oportunidades para aplicar mis conocimientos en **coordinación logística
 
 ## 🎓 Educación
 ### **SENA** _(2021)_
-- Tecnico en Barismo, Barman Bartender
+Tecnico en Barismo, Barman Bartender
 - Barismo
   - Café de especialidad
   - Latte art
@@ -67,7 +67,7 @@ Busco oportunidades para aplicar mis conocimientos en **coordinación logística
 ## 🎓 Educación
 ### **Normal Superior De Nocaima** _(2018)_
 - Practicas de docente como normalista en primaria
-  ## 🎓 Educación
+## 🎓 Educación
 ### **I.E.D San Patricio Puente de Piedra** _(2020)_
 - Bachiller academico
 
