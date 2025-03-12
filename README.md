@@ -1,29 +1,78 @@
-# CV_Example
+# CV_Karen Bohorquez
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
-
+## Karen Daniela Bohorquez Pineda
+**Profesión:** Tecnico Integrado en Operaciones Logisticas 
+### **Introducción para tu CV**  
+**Perfil Profesional**  
+Profesional apasionada por la eficiencia y el servicio, con formación en **Operaciones Logísticas** y amplia experiencia en diversas áreas clave, incluyendo **logística y seguridad en eventos, administración, servicio al cliente y manejo de inventarios**. Además, cuento con sólidos conocimientos en **barismo, coctelería y bartender**, destacando en la preparación de bebidas y atención personalizada.  
+Mi versatilidad profesional se complementa con habilidades en **ventas cruzadas, retención de clientes en call centers y manejo de caja**, asegurando una experiencia excepcional para los clientes y optimizando los procesos internos. Como **instructora de danza**, he desarrollado liderazgo, creatividad y capacidad de enseñanza.  
+Busco oportunidades para aplicar mis conocimientos en **coordinación logística, gestión de operaciones y servicio al cliente**, aportando soluciones estratégicas y un enfoque dinámico para el crecimiento del negocio.
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** [kbohorquez168@gmail.com](kbohorquez168@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/karen-bohorquez-981688351/](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Manufacturas Elitot** _(2024- Actualidad)_
+- Tecnico Integrado en Operacones Logisticas.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Bar 365** _(2023- 2024)_
+- Administradora/Cajera
+- Atencion al cliente, manejo de caja, manejo de inventarios, recibo de efectivo, tarjetas de credito o debito
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2024 Avtualidad)_
+- Tecnico en Operaciones Logisticas
+ - Logística
+ - Cadena de suministro
+ - Planificación logística
+ - Gestión de inventarios
+ - Control de stock
+ - Distribución
+ - Almacenamiento
+ - Aprovisionamiento
+ - Transporte
+
+  ## 🎓 Educación
+### **SENA** _(2021)_
+- Tecnico en Barismo, Barman Bartender
+- Barismo
+  - Café de especialidad
+  - Latte art
+  - Prensado
+  - Aeropress
+  - Barista
+-Barman / Bartender
+  - Coctelería
+  - Mixología
+  - Destilados
+  - Fermentados
+  - Licor
+  - Garnish
+  - Bitter
+  - Shake
+  - Stir
+  - Jigger
+  - Muddler
+  - Flair bartending
+  - On the rocks
+  - Neat
+  - Highball
+  - Shot 
+## 🎓 Educación
+### **Normal Superior De Nocaima** _(2018)_
+- Practicas de docente como normalista en primaria
+  ## 🎓 Educación
+### **I.E.D San Patricio Puente de Piedra** _(2020)_
+- Bachiller academico
+
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Iniciativa**
+- **Trabajo en equipo**
+- **Orientacion al logro**
+- **Servicio al cliente**
+- **Compromiso**
 
 ---
 
