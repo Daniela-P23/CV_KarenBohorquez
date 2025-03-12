@@ -38,7 +38,7 @@ Busco oportunidades para aplicar mis conocimientos en **coordinación logística
  - Aprovisionamiento
  - Transporte
 
-  ## 🎓 Educación
+## 🎓 Educación
 ### **SENA** _(2021)_
 - Tecnico en Barismo, Barman Bartender
 - Barismo
