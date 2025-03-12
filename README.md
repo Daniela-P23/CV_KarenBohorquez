@@ -9,7 +9,7 @@
 
 Profesional apasionada por la eficiencia y el servicio, con formación en **Operaciones Logísticas** y amplia experiencia en diversas áreas clave, incluyendo **logística y seguridad en eventos, administración, servicio al cliente y manejo de inventarios**. Además, cuento con sólidos conocimientos en **barismo, coctelería y bartender**, destacando en la preparación de bebidas y atención personalizada.  
 
-Mi versatilidad profesional se complementa con habilidades en **ventas cruzadas, retención de clientes en call centers y manejo de caja**, asegurando una experiencia excepcional para los clientes y optimizando los procesos internos. Como **instructora de danza**, he desarrollado liderazgo, creatividad y capacidad de enseñanza.  
+Mi versatilidad profesional se complementa con habilidades en **ventas cruzadas, retención de clientes en call centers y manejo de caja**, asegurando una experiencia excepcional para los clientes y optimizando los procesos internos. Como **instructora de danza**, he desarrollado liderazgo, creatividad y capacidad de enseñanza. 
 
 Busco oportunidades para aplicar mis conocimientos en **coordinación logística, gestión de operaciones y servicio al cliente**, aportando soluciones estratégicas y un enfoque dinámico para el crecimiento del negocio.
 
